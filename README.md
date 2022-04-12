@@ -1,6 +1,6 @@
 Planet Tasty
 
-Romy Cohen
-Talia Kurlandski
-Lola Fera
-Diana Bisekeeva
+- Romy Cohen
+- Talia Kurlandski
+- Lola Fera
+- Diana Bisekeeva
